@@ -1,3 +1,6 @@
 # ERU
-
+Ash Nazg Durbatuluk\
+Ash Nazg Gimbatul\
+Ash Nazg Thrakatuluk\
+Agh Burzum-Ishi Krimpatul\
 ![ELU](download.jpg)
